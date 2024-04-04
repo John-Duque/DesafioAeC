@@ -1,0 +1,15 @@
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/bin/Debug/net8.0/DesafioAeC.Domain.deps.json
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/bin/Debug/net8.0/DesafioAeC.Domain.dll
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/bin/Debug/net8.0/DesafioAeC.Domain.pdb
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.AssemblyInfoInputs.cache
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.AssemblyInfo.cs
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.csproj.CoreCompileInputs.cache
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.dll
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/refint/DesafioAeC.Domain.dll
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.pdb
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/ref/DesafioAeC.Domain.dll
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/Users/johnduque/Projects/DesafioAeC/DesafioAeC.Domain/obj/Debug/net8.0/DesafioAeC.Domain.csproj.AssemblyReference.cache

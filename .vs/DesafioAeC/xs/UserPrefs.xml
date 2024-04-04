@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AA18092A-20C5-4CD5-A142-55907232C3A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.DesafioAeC.Robo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesafioAeC.Robo/UnitTest1.cs">
+    <Files>
+      <File FileName="DesafioAeC.Robo/UnitTest1.cs" Line="13" Column="1" />
+      <File FileName="DesafioAeC.Domain/Entities/AluraEntity.cs" />
+      <File FileName="DesafioAeC.Domain/Entities/BaseEntity.cs" />
+      <File FileName="DesafioAeC.Domain/Interfaces/IRepository.cs" />
+      <File FileName="DesafioAeC.Domain/Interfaces/Services/IAluraService.cs" />
+      <File FileName="DesafioAeC.Domain/Views/AluraView.cs" />
+      <File FileName="DesafioAeC.Service/Services/AluraService.cs" />
+      <File FileName="DesafioAeC.Application/DI/MappingProfile.cs" />
+      <File FileName="DesafioAeC.Infra/Mapping/AluraMap.cs" />
+      <File FileName="DesafioAeC.Infra/Context/MyContext.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesafioAeC" expanded="True">
+            <Node name="DesafioAeC.Robo" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesafioAeC.CrossCutting\DesafioAeC.CrossCutting.csproj" />
+    <ProjectReference Include="..\DesafioAeC.Domain\DesafioAeC.Domain.csproj" />
+    <ProjectReference Include="..\DesafioAeC.Service\DesafioAeC.Service.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="DI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+</Project>
